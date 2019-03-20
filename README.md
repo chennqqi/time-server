@@ -2,7 +2,7 @@
 
 The TCP time server according to [RFC868](https://tools.ietf.org/html/rfc868)
 
-## Install
+## Installation
 
 Get the package
 
@@ -12,7 +12,7 @@ go get -v github.com/ilyakaznacheev/time-server
 
 Build executables with `make`
 
-``bash
+```bash
 make build
 ```
 
