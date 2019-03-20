@@ -35,7 +35,7 @@ Run the server on localhost at the port you want
 
 ### Client
 
-Run the client to call the RFC868 time server via RFC
+Run the client to call the RFC868 time server via TCP
 
 ```bash
 ./time-client time.nist.gov 37
